@@ -1,12 +1,10 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🎓 Student: KPI / IP-93</code>
+<code>⚪ Community: [Simple Message](https://github.com/Simple-message)</code>
+<code>👷 Speciality: Fullstack JavaScript Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>🧑‍💻 Languages: JavaScript, PHP, Java, CSS, HTML, Kotlin, Python</code>
+<code>📦 Tech stack: node.js, VueJS, Android, MySQL, Apache, Linux, MongoDB</code>
+<code>💬 telegram: [lizardlynx](https://telegram.me/lizardlynx)</code>
+<code>📫 gorbunova.elizaveta@gmail.com</code>
