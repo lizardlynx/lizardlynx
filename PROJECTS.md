@@ -8,5 +8,4 @@ from most recent to oldest
 - [SIGame](https://github.com/mezidia/SIGame)
 - [Pet Detector](https://github.com/mezidia/pet_detector)  
 - [grechka.com](https://github.com/mezidia/grechka.com)
-- [RealTime Webchat](https://github.com/lizardlynx/realtime-web-chat)  
 - [Bitcoin Value Visualizer](https://github.com/lizardlynx/bitcoin_value_visualizer)
